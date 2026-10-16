@@ -43,7 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-In this lab an osTicket Installation had to be configured, so a Admin/Analyst log in page needed to be established. As well as an end users log in page. The next step was to configure Roles for grouping permissions for Admin Panel, Agents, and Supreme Admin. After that, The following step was to configure Departments Roles, and Ticket Visibility for Help Desk and SysAdmin. The last configuration was to allow anyone to create a ticket as long as they were registered within the system.
+In this lab an osTicket Installation had to be configured, so a Admin/Analyst log in page needed to be established. As well as an end users log in page. The next step was to configure Roles for grouping permissions for Admin Panel, Agents, and Supreme Admin. After that, The following step was to configure Departments Roles, and Ticket Visibility for Help Desk and SysAdmins. The last configuration was to allow anyone to create a ticket as long as they were registered within the system.
 </p>
 <br />
 
@@ -53,6 +53,6 @@ In this lab an osTicket Installation had to be configured, so a Admin/Analyst lo
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this lab configurations are still being implemented. Configurations had to be made for New and Current Agents within the system. Jane Doe was added to the Dept for SysAdmins and John Doe for the Support Team Ticketing Dept. Update Role and Permissions were granted
 </p>
 <br />

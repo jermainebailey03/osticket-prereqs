@@ -53,6 +53,6 @@ In this lab an osTicket Installation had to be configured, so a Admin/Analyst lo
 
 </p>
 <p>
-In this lab configurations are still being implemented. Configurations had to be made for New and Current Agents within the system. Jane Doe was added to the Dept for SysAdmins and John Doe for the Support Team Ticketing Dept. Update Role and Permissions were granted
+In this lab configurations are still being implemented. Configurations had to be made for New and Current Agents within the system. Jane Doe was added to the Dept for SysAdmins and John Doe for the Support Team Ticketing Dept. Update Roles and Permissions were granted to users within the system. and The next step was to implement a SLA policy for everybody registered within the system. Such as, Sev-A Grace Period 1hr Schedule 24/7, Sev-B Grace Period 4hrs Schedule 24/7, Sev-C Grace Period 8hrs Schedule 24/7 Business hrs
 </p>
-<br />
+<b />

@@ -19,17 +19,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 11
 
-<h2>List of Prerequisites</h2>
 
-Admin/Analyst Login Page
-End Users Login Page
-Configure Roles
-Configure Departments
-Configure Agents
 
-<h2>Installation Steps</h2>
+</h2></h2>
 
 <p>
+
 <img width="1659" height="904" alt="Screenshot_11-10-2026_173957_coursecareers com" src="https://github.com/user-attachments/assets/dfa01faa-cd22-4c78-9a3d-2667c08cf6a8" />
 
 </p>

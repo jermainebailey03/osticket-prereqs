@@ -20,7 +20,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 11
 
 <h2>List of Prerequisites</h2>
-
 Admin/Analyst Login Page
 End Users Login Page
 Configure Roles

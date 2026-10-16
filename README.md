@@ -48,7 +48,8 @@ In this lab an osTicket Installation had to be configured, so a Admin/Analyst lo
 <br />
 
 <p>
-<img width="760" height="589" alt="Screenshot_11-10-2026_175520_coursecareers com" src="https://github.com/user-attachments/assets/cc6a9e14-a886-432b-9515-d167b125bcd7" />
+<img width="910" height="583" alt="Screenshot_11-10-2026_182535_coursecareers com" src="https://github.com/user-attachments/assets/b77e10d3-1159-40e5-b3ce-1c7d7ff77460" />
+
 
 </p>
 <p>

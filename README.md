@@ -43,7 +43,7 @@ Configure Agents
 
 </p>
 <p>
-In this lab an osTicket Installation had to be configured, so a Admin/Analyst log in page needed to be established. As well as an end users log in page. The next step was to configure Roles for grouping permissions for Admin Panel, Agents, and Supreme Admin. After that, The following step was to configure Departments Roles, and Ticket Visibility for Help Desk and SysAdmins. The last configuration was to allow anyone to create a ticket as long as they were registered within the system.
+In this lab an osTicket Installation had to be configured, so an Admin/Analyst log in page needed to be established. As well as an end users log in page. The next step was to configure Roles for grouping permissions for Admin Panel, Agents, and Supreme Admin. After that, The following step was to configure Departments Roles, and Ticket Visibility for Help Desk and SysAdmins. The last configuration was to allow anyone to create a ticket as long as they were registered within the system.
 </p>
 <br />
 
